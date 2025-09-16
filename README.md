@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    【 📦 <a href="https://huggingface.co/collections/XingweiT/intrex-68a8f2c97688157066860ae2">IntrEx Datasets</a> 】
+    【 📦 <a href="https://huggingface.co/collections/XingweiT/intrex-68a8f2c97688157066860ae2">IntrEx Datasets</a> | 🤗 <a href="https://huggingface.co/papers/2509.06652">Paper</a> 】
 </p>
 
 # IntrEx: A Dataset for Modeling Engagement in Educational Conversations
